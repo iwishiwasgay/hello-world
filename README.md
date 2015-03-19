@@ -2,11 +2,11 @@
 ```perl
 # how do i say hello if there are only 7 million people in the world?
 
-#printfs("Hello, world");
+# printfs("Hello, world");
 
 # OR
 
-#puts("Hello, world");
+# puts("Hello, world");
 
 # legit
 

@@ -19,3 +19,7 @@ print "Hello, world\n";
 # why strict and warnings for hello world?
 # why not?
 ```
+
+# Apparently, introductions go here.
+
+I'm a guy who does some things. Don't worry about who I do them for. Interested in Android Kernel Development because I want to have a kernel focused around being adaptive in order to provide the smoothest experience. Blah blah, buzzwords.
